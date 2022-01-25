@@ -50,6 +50,7 @@ The DATASET used for this analysis can be find here: https://insights.stackoverf
 
 ## RESULTS
 The result of the analysis is can be find here: https://github.com/osunrinde/Data-Science-Blog-Post_NanoDegree.git
+The Medium post is find here: https://medium.com/@osunrinde24/can-programming-be-learnt-at-any-age-40ada8c88d17
 
 ## Project Findings
 From the whole analysis performed on Stack Overflow 2021 survey, the following conclusion was reached:
